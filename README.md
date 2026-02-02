@@ -2,8 +2,8 @@
 
 This repository contains Julia code supporting the results of the paper
 
-> *Split–Twin Extensions and the Second Neighborhood Property*  
-> (to appear)
+> *Seymour’s Second Neighborhood Conjecture for Graphs of Order $\le7$ (and Split–Twin Extensions)*  
+> (In review)
 
 The code implements:
 - exhaustive verification of the second neighborhood property for small oriented graphs,
